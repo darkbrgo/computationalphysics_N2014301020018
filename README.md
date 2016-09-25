@@ -1,6 +1,6 @@
 ## Homework list ##
- - [Exercise_02](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/computationalphysics_N2014301020018/exercise_02/exercise_02.md)
- - [Exercise_03](https://)
+ - [Exercise_02：拼写名字](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/computationalphysics_N2014301020018/exercise_02/exercise_02.md)
+ - [Exercise_03：让名字移动起来&图形运动](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise_03.md)
  - [Exercise_04](https://)
  - [Exercise_05](https://)
  - [Exercise_06](https://)
