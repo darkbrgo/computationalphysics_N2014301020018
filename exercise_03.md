@@ -4,5 +4,5 @@
  - 作业Lv2  做了一个雨滴掉落在地上碎开的动态模拟[lv2](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/kk.py)
 
 ## 致谢 ##
- - 作为初学菜菜鸟，感谢浦臻航同学的指导，得以完成
+ - 作为初学菜菜鸟，lv2感谢浦臻航同学的指导，得以完成
 
