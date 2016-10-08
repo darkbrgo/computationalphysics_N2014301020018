@@ -19,8 +19,7 @@
 ----------
 
  - 给出代码[exercise](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/EXERCISE_04.py)
- - 效果图[衰变图像](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE%20%282%29.png)
- - 
+ - 效果图[衰变图像](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE%20%282%29.png) 
 
 致谢
 -------
