@@ -6,7 +6,7 @@
  - [Exercise_06:习题2.10强化版](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise06.md)
  - [Exercise_07：习题3.13](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise_07.md)
  - [Exercise_08: 习题3.20](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise_08.md)
- - [Exercise_09](https:/)
+ - [Exercise_09: 习题3.31](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise_09.md)
  - [Exercise_10](https:/)
  - [Exercise_11](https:/)
  - [Exercise_12](https:/)
