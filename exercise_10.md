@@ -10,9 +10,10 @@
 -------
 
  - [代码exercise_10](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise_10/exercise_10.py)
- - ![List item](https://github.com/darkbrgo/computationalphysics_N2014301020018/b62lob/master/exercise_10/mars.png)
+
  - ![enter image description here](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise_10/earth.png)
  - ![enter image description here](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise_10/venus.png)
  - ![enter image description here](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise_10/saturn.png)
+ - ![enter image description here](https://github.com/darkbrgo/computationalphysics_N2014301020018/b62lob/master/exercise_10/mars.png)
  - 分别计算T^2/a^3的值，在误差允许的范围内，较好验证了开普勒第三定律
 
