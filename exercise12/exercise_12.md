@@ -14,7 +14,7 @@ problem5.3   求解电容器周围的电势场。本题研究两块有限导体�
 
  - 画出等高线电势图和对应的3D图像[代码1](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise12/exercise_12.py)![enter image description here](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise12/12.1.png)![enter image description here](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise12/12.2.png)
  - 画出电场线矢量图[代码2](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise12/exercise_12.1.py)
-![enter image description here](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise12/12.3.png)
+ - ![enter image description here](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise12/12.3.png)
  - 结论：    平板处电势最强，且平板间的电场均匀，整体分布符合实际情况
 
 致谢
