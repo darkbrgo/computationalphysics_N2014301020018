@@ -9,6 +9,6 @@
  - [Exercise_09: 习题3.31](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise_09.md)
  - [Exercise_10: 习题4.8](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise_10.md)
  - [Exercise_11: 习题4.19&4.20](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise_11.md)
- - [Exercise_12](https:/)
+ - [Exercise_12: 习题5.3](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise12/exercise_12.md)
  - [Exercise_13](https:/)
  - [Final Project](https:/)
