@@ -11,4 +11,4 @@
  - [Exercise_11: 习题4.19&4.20](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise_11.md)
  - [Exercise_12: 习题5.3](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise12/exercise_12.md)
  - [Exercise_13: 习题6.13](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/exercise_13/exercise_13.md)
- - [Final Project](https:/)
+ - [Final Project：随机行走及猜数游戏](https://github.com/darkbrgo/computationalphysics_N2014301020018/blob/master/final%20project/finalss.md)
